@@ -1,3 +1,5 @@
+
+
 # 🌿 Carbon Footprint Calculator
 
 A simple and intuitive web application designed to **calculate an individual’s carbon footprint score** and **raise environmental awareness** by promoting sustainable habits.
