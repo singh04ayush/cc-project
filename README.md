@@ -17,7 +17,7 @@ The project aims to:
 
 ## 🧰 Tech Stack
 
-- **TypeScript**
+- **Javascript**
 - **HTML/CSS** with **Tailwind CSS**
 - **Vite** for development and build tooling
 
