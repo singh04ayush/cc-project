@@ -45,3 +45,6 @@ git clone https://github.com/singh04ayush/cc-project.git
 cd cc-project
 npm install
 npm run dev
+
+
+This is a private project and cannot be shared
